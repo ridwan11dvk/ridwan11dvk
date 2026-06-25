@@ -81,6 +81,7 @@ I enjoy working across the full software development lifecycle: planning, implem
 
 ## 🚀 Selected Public Work
 
+- [**takar**](https://github.com/ridwan11dvk/takar) — Local-first inventory and HPP tracker for small F&B businesses, built with Vite, React, Tailwind CSS, and Dexie
 - [**choose-your-catch**](https://github.com/ridwan11dvk/choose-your-catch) — SMAPI mod for choosing the fish caught by the next fishing attempt
 - [**choose-your-find**](https://github.com/ridwan11dvk/choose-your-find) — SMAPI mod for choosing artifact spot drops
 - [**always-welcome-everywhere**](https://github.com/ridwan11dvk/always-welcome-everywhere) — Stardew Valley modding project around door access behavior
